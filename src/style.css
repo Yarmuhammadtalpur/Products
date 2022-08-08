@@ -1,0 +1,30 @@
+.container-fluid {
+  margin-top: 5rem;
+}
+.mg-left {
+  margin-left: 0.5rem;
+}
+.footer-d {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.form-check {
+  margin: 1.1rem 0 0 1.5rem;
+}
+.dropdown {
+  margin-bottom: 2rem;
+}
+
+.hidden {
+  display: none;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  color: rgb(209, 207, 207);
+}
